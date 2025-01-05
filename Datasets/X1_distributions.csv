@@ -1,0 +1,11 @@
+Client,Distribution
+Client_0,normal
+Client_1,normal
+Client_2,bernoulli
+Client_3,standard_normal
+Client_4,standard_normal
+Client_5,standard_normal
+Client_6,normal
+Client_7,t
+Client_8,normal
+Client_9,t

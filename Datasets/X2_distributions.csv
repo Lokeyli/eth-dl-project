@@ -1,0 +1,11 @@
+Client,Feature01,Feature02,Feature03,Feature04,Feature05,Feature06,Feature07,Feature08,Feature09,Feature10,Feature11,Feature12,Feature13,Feature14,Feature15,Feature16,Feature17,Feature18,Feature19,Feature20
+Client_0,poisson,normal,normal,normal,standard_normal,standard_normal,t,t,normal,t,standard_normal,t,poisson,standard_normal,poisson,t,bernoulli,normal,standard_normal,poisson
+Client_1,bernoulli,bernoulli,standard_normal,standard_normal,bernoulli,normal,normal,poisson,normal,bernoulli,bernoulli,t,bernoulli,normal,poisson,t,normal,poisson,normal,t
+Client_2,bernoulli,t,bernoulli,t,standard_normal,normal,normal,standard_normal,bernoulli,normal,standard_normal,normal,poisson,bernoulli,poisson,bernoulli,standard_normal,bernoulli,bernoulli,standard_normal
+Client_3,bernoulli,normal,t,standard_normal,t,standard_normal,standard_normal,poisson,poisson,bernoulli,t,standard_normal,bernoulli,normal,standard_normal,normal,bernoulli,poisson,bernoulli,normal
+Client_4,standard_normal,t,bernoulli,standard_normal,poisson,poisson,poisson,standard_normal,bernoulli,standard_normal,standard_normal,t,t,bernoulli,t,poisson,t,poisson,bernoulli,standard_normal
+Client_5,standard_normal,t,poisson,normal,normal,normal,standard_normal,standard_normal,poisson,t,normal,poisson,poisson,t,poisson,t,bernoulli,t,normal,normal
+Client_6,t,bernoulli,bernoulli,normal,bernoulli,poisson,standard_normal,poisson,normal,bernoulli,t,standard_normal,t,normal,bernoulli,t,t,standard_normal,standard_normal,bernoulli
+Client_7,standard_normal,t,t,normal,t,bernoulli,poisson,normal,normal,bernoulli,bernoulli,standard_normal,normal,standard_normal,t,normal,normal,poisson,normal,t
+Client_8,standard_normal,standard_normal,poisson,t,standard_normal,bernoulli,t,t,poisson,standard_normal,t,standard_normal,bernoulli,poisson,bernoulli,poisson,t,poisson,normal,standard_normal
+Client_9,standard_normal,normal,bernoulli,normal,t,t,standard_normal,t,standard_normal,normal,normal,normal,standard_normal,normal,normal,bernoulli,normal,t,standard_normal,bernoulli
